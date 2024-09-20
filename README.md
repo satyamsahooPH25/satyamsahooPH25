@@ -61,7 +61,7 @@
 
 ## Experience
 - **Jaguar Land Rover (Inter IIT Tech 12.0)**  
-  Developed thermal simulations for GPU and HBM2 modules using Ansys Icepak. Conducted market analysis for AI-integrated ADAS systems. (Oct - Dec, 2023)
+  Developed thermal simulations for GPU and HBM2 modules using Ansys Icepak. Conducted market analysis for AI-integrated ADAS systems. (Oct - Dec, 2024)
 
 ## Achievements
 - **All India Rank 200, Amazon Ml Challenge** (Dec 2023)
