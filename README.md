@@ -84,7 +84,3 @@
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib
 - **Deep Learning**: Seq2Seq (Transformers, LLM, LSTM, GRU, RNN), CNN, RAG, Vector DB
 - **Tools**: TensorFlow, Keras, Scikit-Learn, Streamlit, Git, Linux
-
-## Position of Responsibility
-- **Captain, Team Phoenix (Robocon)**  
-  Leading a team of over 50 students in building autonomous robots for ABU Robocon at IIT Delhi.
