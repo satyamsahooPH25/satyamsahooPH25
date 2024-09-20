@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Sahoo</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h3 align="center">A passionate ML Engineer transforming data into intelligence, and algorithms into impact.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
