@@ -55,22 +55,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamsahooph25&show_icons=true&locale=en&layout=compact" alt="satyamsahooph25" /></p>
 
-## Education
-- **Indian Institute Of Technology Patna**, Patna, Bihar, India  
-  Bachelor of Technology - Engineering Physics
-
-## Experience
-- **Jaguar Land Rover (Inter IIT Tech 12.0)**  
-  Developed thermal simulations for GPU and HBM2 modules using Ansys Icepak. Conducted market analysis for AI-integrated ADAS systems. (Oct - Dec, 2024)
-
-## Achievements
-- **All India Rank 200, Amazon Ml Challenge** (Dec 2023)
-- **Inter IIT Tech Gold Medalist** (Jaguar Land Rover) for designing a chiplet cooling system (Dec 2023)
-- **Winner, Micro-mouse Competition** (Wissenaire’23, IIT Bhubaneswar) (Feb 2023)
-- **Top 25 Teams, Asia's Largest Robotics Competition** (IIT Delhi, ABU Robocon) (May 2023, 2024)
-- **Semi-Finalist, Flipkart Grid 5.0 (Robotics)** for developing an autonomous robotic arm (Aug 2023)
-- **All India Rank 11037, JEE Advanced** (Oct 2022)
-
 ## Skills
 - **Languages**: Python, C++, SQL
 - **ML**: Regression, Classification, Clustering, Ensemble Techniques
