@@ -64,6 +64,7 @@
   Developed thermal simulations for GPU and HBM2 modules using Ansys Icepak. Conducted market analysis for AI-integrated ADAS systems. (Oct - Dec, 2023)
 
 ## Achievements
+- **All India Rank 200, Amazon Ml Challenge** (Dec 2023)
 - **Inter IIT Tech Gold Medalist** (Jaguar Land Rover) for designing a chiplet cooling system (Dec 2023)
 - **Winner, Micro-mouse Competition** (Wissenaire’23, IIT Bhubaneswar) (Feb 2023)
 - **Top 25 Teams, Asia's Largest Robotics Competition** (IIT Delhi, ABU Robocon) (May 2023, 2024)
