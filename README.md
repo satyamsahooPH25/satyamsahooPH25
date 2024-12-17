@@ -56,6 +56,6 @@
 - **Languages**: Python, C++, SQL
 - **ML**: Regression, Classification, Clustering, Ensemble Techniques
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib
-- **Deep Learning**: Seq2Seq (Transformers, LLM, LSTM, GRU, RNN), CNN, RAG, Vector DB
-- **Tools**: TensorFlow, Keras, Scikit-Learn, Streamlit, Git, Linux
-- **GenAI**: GPT, BERT, RAG, Vector DB
+- **Deep Learning**: Seq2Seq (Transformers, LSTM, GRU, RNN), CNN, Graph Neural Network
+- **Tools**: TensorFlow, Keras, PyTorch, LangGraph, Langchain, Scikit-Learn, Streamlit, Git, Linux
+- **GenAI**: Agentic RAG, Vector DB
